@@ -2,6 +2,9 @@
 
 Meetings every thursday at 18:00
 
+The presenter of the chapter will be chosen by chance. If the chosen one did
+not read the book, the metting will be suspended.
+
 ### Part 1: Math Review
 
 | Date          | Theme         | Chapter  |
